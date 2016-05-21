@@ -12,7 +12,7 @@ Es un buen punto de partida para empezar a estudiar y aprender a usar esta libre
 Usa Less para los estilos.
 
 
-### Use / Uso
+### Use/Uso
 
 ```
 import React from 'react';
